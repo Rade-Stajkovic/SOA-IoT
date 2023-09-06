@@ -1,0 +1,63 @@
+D:\Fakultet\3.godina\Distribuirani sistemi\Blanketi\MPI\IoT - Project 1\GrpcClient\bin\Debug\net6.0\GrpcClient.exe
+D:\Fakultet\3.godina\Distribuirani sistemi\Blanketi\MPI\IoT - Project 1\GrpcClient\bin\Debug\net6.0\GrpcClient.deps.json
+D:\Fakultet\3.godina\Distribuirani sistemi\Blanketi\MPI\IoT - Project 1\GrpcClient\bin\Debug\net6.0\GrpcClient.runtimeconfig.json
+D:\Fakultet\3.godina\Distribuirani sistemi\Blanketi\MPI\IoT - Project 1\GrpcClient\bin\Debug\net6.0\GrpcClient.dll
+D:\Fakultet\3.godina\Distribuirani sistemi\Blanketi\MPI\IoT - Project 1\GrpcClient\bin\Debug\net6.0\GrpcClient.pdb
+D:\Fakultet\3.godina\Distribuirani sistemi\Blanketi\MPI\IoT - Project 1\GrpcClient\bin\Debug\net6.0\Google.Protobuf.dll
+D:\Fakultet\3.godina\Distribuirani sistemi\Blanketi\MPI\IoT - Project 1\GrpcClient\bin\Debug\net6.0\Grpc.Core.Api.dll
+D:\Fakultet\3.godina\Distribuirani sistemi\Blanketi\MPI\IoT - Project 1\GrpcClient\bin\Debug\net6.0\Grpc.Net.Client.dll
+D:\Fakultet\3.godina\Distribuirani sistemi\Blanketi\MPI\IoT - Project 1\GrpcClient\bin\Debug\net6.0\Grpc.Net.Common.dll
+D:\Fakultet\3.godina\Distribuirani sistemi\Blanketi\MPI\IoT - Project 1\GrpcClient\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Fakultet\3.godina\Distribuirani sistemi\Blanketi\MPI\IoT - Project 1\GrpcClient\obj\Debug\net6.0\GrpcClient.csproj.AssemblyReference.cache
+D:\Fakultet\3.godina\Distribuirani sistemi\Blanketi\MPI\IoT - Project 1\GrpcClient\obj\Debug\net6.0\GrpcClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fakultet\3.godina\Distribuirani sistemi\Blanketi\MPI\IoT - Project 1\GrpcClient\obj\Debug\net6.0\GrpcClient.AssemblyInfoInputs.cache
+D:\Fakultet\3.godina\Distribuirani sistemi\Blanketi\MPI\IoT - Project 1\GrpcClient\obj\Debug\net6.0\GrpcClient.AssemblyInfo.cs
+D:\Fakultet\3.godina\Distribuirani sistemi\Blanketi\MPI\IoT - Project 1\GrpcClient\obj\Debug\net6.0\GrpcClient.csproj.CoreCompileInputs.cache
+D:\Fakultet\3.godina\Distribuirani sistemi\Blanketi\MPI\IoT - Project 1\GrpcClient\obj\Debug\net6.0\GrpcClient.csproj.CopyComplete
+D:\Fakultet\3.godina\Distribuirani sistemi\Blanketi\MPI\IoT - Project 1\GrpcClient\obj\Debug\net6.0\GrpcClient.dll
+D:\Fakultet\3.godina\Distribuirani sistemi\Blanketi\MPI\IoT - Project 1\GrpcClient\obj\Debug\net6.0\refint\GrpcClient.dll
+D:\Fakultet\3.godina\Distribuirani sistemi\Blanketi\MPI\IoT - Project 1\GrpcClient\obj\Debug\net6.0\GrpcClient.pdb
+D:\Fakultet\3.godina\Distribuirani sistemi\Blanketi\MPI\IoT - Project 1\GrpcClient\obj\Debug\net6.0\GrpcClient.genruntimeconfig.cache
+D:\Fakultet\3.godina\Distribuirani sistemi\Blanketi\MPI\IoT - Project 1\GrpcClient\obj\Debug\net6.0\ref\GrpcClient.dll
+D:\Fakultet\4. godina\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GrpcClient\bin\Debug\net6.0\GrpcClient.exe
+D:\Fakultet\4. godina\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GrpcClient\bin\Debug\net6.0\GrpcClient.deps.json
+D:\Fakultet\4. godina\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GrpcClient\bin\Debug\net6.0\GrpcClient.runtimeconfig.json
+D:\Fakultet\4. godina\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GrpcClient\bin\Debug\net6.0\GrpcClient.dll
+D:\Fakultet\4. godina\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GrpcClient\bin\Debug\net6.0\GrpcClient.pdb
+D:\Fakultet\4. godina\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GrpcClient\bin\Debug\net6.0\Google.Protobuf.dll
+D:\Fakultet\4. godina\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GrpcClient\bin\Debug\net6.0\Grpc.Core.Api.dll
+D:\Fakultet\4. godina\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GrpcClient\bin\Debug\net6.0\Grpc.Net.Client.dll
+D:\Fakultet\4. godina\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GrpcClient\bin\Debug\net6.0\Grpc.Net.Common.dll
+D:\Fakultet\4. godina\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GrpcClient\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Fakultet\4. godina\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GrpcClient\obj\Debug\net6.0\GrpcClient.csproj.AssemblyReference.cache
+D:\Fakultet\4. godina\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GrpcClient\obj\Debug\net6.0\GrpcClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fakultet\4. godina\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GrpcClient\obj\Debug\net6.0\GrpcClient.AssemblyInfoInputs.cache
+D:\Fakultet\4. godina\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GrpcClient\obj\Debug\net6.0\GrpcClient.AssemblyInfo.cs
+D:\Fakultet\4. godina\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GrpcClient\obj\Debug\net6.0\GrpcClient.csproj.CoreCompileInputs.cache
+D:\Fakultet\4. godina\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GrpcClient\obj\Debug\net6.0\GrpcClient.csproj.CopyComplete
+D:\Fakultet\4. godina\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GrpcClient\obj\Debug\net6.0\GrpcClient.dll
+D:\Fakultet\4. godina\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GrpcClient\obj\Debug\net6.0\refint\GrpcClient.dll
+D:\Fakultet\4. godina\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GrpcClient\obj\Debug\net6.0\GrpcClient.pdb
+D:\Fakultet\4. godina\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GrpcClient\obj\Debug\net6.0\GrpcClient.genruntimeconfig.cache
+D:\Fakultet\4. godina\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GrpcClient\obj\Debug\net6.0\ref\GrpcClient.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GrpcClient\bin\Debug\net6.0\GrpcClient.exe
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GrpcClient\bin\Debug\net6.0\GrpcClient.deps.json
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GrpcClient\bin\Debug\net6.0\GrpcClient.runtimeconfig.json
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GrpcClient\bin\Debug\net6.0\GrpcClient.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GrpcClient\bin\Debug\net6.0\GrpcClient.pdb
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GrpcClient\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GrpcClient\bin\Debug\net6.0\Grpc.Core.Api.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GrpcClient\bin\Debug\net6.0\Grpc.Net.Client.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GrpcClient\bin\Debug\net6.0\Grpc.Net.Common.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GrpcClient\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GrpcClient\obj\Debug\net6.0\GrpcClient.csproj.AssemblyReference.cache
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GrpcClient\obj\Debug\net6.0\GrpcClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GrpcClient\obj\Debug\net6.0\GrpcClient.AssemblyInfoInputs.cache
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GrpcClient\obj\Debug\net6.0\GrpcClient.AssemblyInfo.cs
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GrpcClient\obj\Debug\net6.0\GrpcClient.csproj.CoreCompileInputs.cache
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GrpcClient\obj\Debug\net6.0\GrpcClient.csproj.CopyComplete
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GrpcClient\obj\Debug\net6.0\GrpcClient.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GrpcClient\obj\Debug\net6.0\refint\GrpcClient.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GrpcClient\obj\Debug\net6.0\GrpcClient.pdb
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GrpcClient\obj\Debug\net6.0\GrpcClient.genruntimeconfig.cache
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GrpcClient\obj\Debug\net6.0\ref\GrpcClient.dll

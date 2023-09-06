@@ -1,0 +1,194 @@
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\obj\Debug\net6.0\GraphQLService.csproj.AssemblyReference.cache
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\obj\Debug\net6.0\GraphQLService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\obj\Debug\net6.0\GraphQLService.AssemblyInfoInputs.cache
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\obj\Debug\net6.0\GraphQLService.AssemblyInfo.cs
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\obj\Debug\net6.0\GraphQLService.csproj.CoreCompileInputs.cache
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\obj\Debug\net6.0\GraphQLService.MvcApplicationPartsAssemblyInfo.cs
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\obj\Debug\net6.0\GraphQLService.MvcApplicationPartsAssemblyInfo.cache
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\appsettings.Development.json
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\appsettings.json
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\GraphQLService.exe
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\GraphQLService.deps.json
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\GraphQLService.runtimeconfig.json
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\GraphQLService.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\GraphQLService.pdb
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\BananaCakePop.Middleware.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\GreenDonut.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\HotChocolate.Abstractions.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\HotChocolate.AspNetCore.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\HotChocolate.Authorization.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\HotChocolate.Execution.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\HotChocolate.Execution.Abstractions.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\HotChocolate.Fetching.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\HotChocolate.Language.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\HotChocolate.Language.SyntaxTree.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\HotChocolate.Language.Utf8.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\HotChocolate.Language.Visitors.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\HotChocolate.Language.Web.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\HotChocolate.Subscriptions.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\HotChocolate.Subscriptions.InMemory.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\HotChocolate.Transport.Sockets.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\HotChocolate.Types.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\HotChocolate.Types.CursorPagination.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\HotChocolate.Types.Mutations.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\HotChocolate.Types.OffsetPagination.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\HotChocolate.Types.Scalars.Upload.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\HotChocolate.Utilities.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\HotChocolate.Utilities.Introspection.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\HotChocolate.Validation.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\System.IO.Hashing.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\System.Text.Json.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\Yarp.ReverseProxy.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\obj\Debug\net6.0\staticwebassets\msbuild.GraphQLService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\obj\Debug\net6.0\staticwebassets\msbuild.build.GraphQLService.props
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GraphQLService.props
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GraphQLService.props
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\obj\Debug\net6.0\staticwebassets.build.json
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\obj\Debug\net6.0\staticwebassets.development.json
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\obj\Debug\net6.0\scopedcss\bundle\GraphQLService.styles.css
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\obj\Debug\net6.0\GraphQLService.csproj.CopyComplete
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\obj\Debug\net6.0\GraphQLService.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\obj\Debug\net6.0\refint\GraphQLService.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\obj\Debug\net6.0\GraphQLService.pdb
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\obj\Debug\net6.0\GraphQLService.genruntimeconfig.cache
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\obj\Debug\net6.0\ref\GraphQLService.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\HotChocolate.Data.dll
+C:\Servisno-orijentisane arhitekture\Projekti\IoT - Project 1\GraphQLService\bin\Debug\net6.0\HotChocolate.Data.EntityFramework.dll
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\appsettings.Development.json
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\appsettings.json
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\GraphQLService.exe
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\GraphQLService.deps.json
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\GraphQLService.runtimeconfig.json
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\GraphQLService.dll
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\GraphQLService.pdb
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\BananaCakePop.Middleware.dll
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\GreenDonut.dll
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\HotChocolate.Abstractions.dll
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\HotChocolate.AspNetCore.dll
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\HotChocolate.Authorization.dll
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\HotChocolate.Data.dll
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\HotChocolate.Data.EntityFramework.dll
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\HotChocolate.Execution.dll
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\HotChocolate.Execution.Abstractions.dll
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\HotChocolate.Fetching.dll
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\HotChocolate.Language.dll
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\HotChocolate.Language.SyntaxTree.dll
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\HotChocolate.Language.Utf8.dll
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\HotChocolate.Language.Visitors.dll
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\HotChocolate.Language.Web.dll
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\HotChocolate.Subscriptions.dll
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\HotChocolate.Subscriptions.InMemory.dll
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\HotChocolate.Transport.Sockets.dll
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\HotChocolate.Types.dll
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\HotChocolate.Types.CursorPagination.dll
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\HotChocolate.Types.Mutations.dll
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\HotChocolate.Types.OffsetPagination.dll
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\HotChocolate.Types.Scalars.Upload.dll
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\HotChocolate.Utilities.dll
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\HotChocolate.Utilities.Introspection.dll
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\HotChocolate.Validation.dll
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\System.IO.Hashing.dll
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\System.Text.Json.dll
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\Yarp.ReverseProxy.dll
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\obj\Debug\net6.0\GraphQLService.csproj.AssemblyReference.cache
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\obj\Debug\net6.0\GraphQLService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\obj\Debug\net6.0\GraphQLService.AssemblyInfoInputs.cache
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\obj\Debug\net6.0\GraphQLService.AssemblyInfo.cs
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\obj\Debug\net6.0\GraphQLService.csproj.CoreCompileInputs.cache
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\obj\Debug\net6.0\GraphQLService.MvcApplicationPartsAssemblyInfo.cs
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\obj\Debug\net6.0\GraphQLService.MvcApplicationPartsAssemblyInfo.cache
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\obj\Debug\net6.0\staticwebassets\msbuild.GraphQLService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\obj\Debug\net6.0\staticwebassets\msbuild.build.GraphQLService.props
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GraphQLService.props
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GraphQLService.props
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\obj\Debug\net6.0\staticwebassets.build.json
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\obj\Debug\net6.0\staticwebassets.development.json
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\obj\Debug\net6.0\scopedcss\bundle\GraphQLService.styles.css
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\obj\Debug\net6.0\GraphQLService.csproj.CopyComplete
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\obj\Debug\net6.0\GraphQLService.dll
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\obj\Debug\net6.0\refint\GraphQLService.dll
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\obj\Debug\net6.0\GraphQLService.pdb
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\obj\Debug\net6.0\GraphQLService.genruntimeconfig.cache
+C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GraphQLService\obj\Debug\net6.0\ref\GraphQLService.dll

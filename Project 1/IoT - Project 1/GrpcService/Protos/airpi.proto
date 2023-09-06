@@ -1,0 +1,39 @@
+syntax = "proto3";
+
+option csharp_namespace = "GrpcService.Protos";
+
+package airpi;
+
+service AirPi {
+   rpc GetAirPiValueById(AirPiValueId) returns (ValueMessage);
+   rpc AddValue(AirPiValue) returns (ValueMessage);
+   rpc DeleteValue(AirPiValueId) returns (ValueMessage);
+   rpc UpdateValue(AirPiValue) returns (ValueMessage);
+}
+
+
+message AirPiValueId {
+	string id = 1;
+}
+
+message AirPiValue {
+	string id = 1;
+	string datetime = 2;
+	double volume = 3;
+	double light_level = 4;
+	double temperature_dht = 5;
+	double pressure = 6;
+	double temperature_bmp = 7;
+	double relative_humidity = 8;
+	double air_quality = 9;
+	double carbon_monoxide = 10;
+	double nitrogen_dioxide = 11;
+}
+
+message ValueMessage {
+	string id = 1;
+	string message = 2;
+	AirPiValue airpivalue = 3;
+}
+
+

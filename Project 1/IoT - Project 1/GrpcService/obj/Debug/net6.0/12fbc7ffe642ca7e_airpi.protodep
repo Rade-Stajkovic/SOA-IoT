@@ -1,0 +1,2 @@
+obj\Debug\net6.0\Protos/Airpi.cs \
+obj\Debug\net6.0\Protos/AirpiGrpc.cs: Protos/airpi.proto
