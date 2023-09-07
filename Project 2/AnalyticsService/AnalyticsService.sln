@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnalyticsService", "AnalyticsService\AnalyticsService.csproj", "{AA0068DC-F6D6-455B-B3AC-73F66CA80EBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA0068DC-F6D6-455B-B3AC-73F66CA80EBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA0068DC-F6D6-455B-B3AC-73F66CA80EBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA0068DC-F6D6-455B-B3AC-73F66CA80EBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA0068DC-F6D6-455B-B3AC-73F66CA80EBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C8A57F9-0DFD-4BCF-B165-2A78E3D2D638}
+	EndGlobalSection
+EndGlobal
