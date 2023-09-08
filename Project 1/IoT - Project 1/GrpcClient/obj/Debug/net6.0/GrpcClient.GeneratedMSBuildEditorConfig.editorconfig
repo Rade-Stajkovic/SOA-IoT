@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = GrpcClient
-build_property.ProjectDir = C:\Servisno-orijentisane arhitekture\Project 1\IoT - Project 1\GrpcClient\
+build_property.ProjectDir = C:\Servisno-orijentisane arhitekture\Git SoA\SOA-IoT\Project 1\IoT - Project 1\GrpcClient\

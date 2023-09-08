@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Servisno-orijentisane arhitekture\\Project 1\\IoT - Project 1\\GraphQLService\\GraphQLService.csproj": {}
+    "C:\\Servisno-orijentisane arhitekture\\Git SoA\\SOA-IoT\\Project 1\\IoT - Project 1\\GraphQLService\\GraphQLService.csproj": {}
   },
   "projects": {
-    "C:\\Servisno-orijentisane arhitekture\\Project 1\\IoT - Project 1\\GraphQLService\\GraphQLService.csproj": {
+    "C:\\Servisno-orijentisane arhitekture\\Git SoA\\SOA-IoT\\Project 1\\IoT - Project 1\\GraphQLService\\GraphQLService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Servisno-orijentisane arhitekture\\Project 1\\IoT - Project 1\\GraphQLService\\GraphQLService.csproj",
+        "projectUniqueName": "C:\\Servisno-orijentisane arhitekture\\Git SoA\\SOA-IoT\\Project 1\\IoT - Project 1\\GraphQLService\\GraphQLService.csproj",
         "projectName": "GraphQLService",
-        "projectPath": "C:\\Servisno-orijentisane arhitekture\\Project 1\\IoT - Project 1\\GraphQLService\\GraphQLService.csproj",
+        "projectPath": "C:\\Servisno-orijentisane arhitekture\\Git SoA\\SOA-IoT\\Project 1\\IoT - Project 1\\GraphQLService\\GraphQLService.csproj",
         "packagesPath": "C:\\Users\\radom\\.nuget\\packages\\",
-        "outputPath": "C:\\Servisno-orijentisane arhitekture\\Project 1\\IoT - Project 1\\GraphQLService\\obj\\",
+        "outputPath": "C:\\Servisno-orijentisane arhitekture\\Git SoA\\SOA-IoT\\Project 1\\IoT - Project 1\\GraphQLService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\radom\\AppData\\Roaming\\NuGet\\NuGet.Config",

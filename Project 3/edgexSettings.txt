@@ -1,0 +1,58 @@
+{
+    "name": "volume",
+    "description": "AirPi data",
+    "min": "",
+    "max": "",
+    "type": "Int64",
+    "uomLabel": "volume",
+    "defaultValue": "null",
+    "formatting": "%s",
+    "labels": [
+        "environment",
+        "volume"
+    ]
+}
+
+
+{
+    "name": "timestamp",
+    "description": "AirPi data",
+    "min": "",
+    "max": "",
+    "type": "String",
+    "uomLabel": "timestamp",
+    "defaultValue": "null",
+    "labels": [
+        "environment",
+        "timestamp"
+    ]
+}
+
+
+{
+    "name": "relativehumidity",
+    "description": "AirPi data",
+    "min": "",
+    "max": "",
+    "type": "Int64",
+    "uomLabel": "relativehumidity",
+    "defaultValue": "null",
+    "labels": [
+        "environment",
+        "relativehumidity"
+    ]
+}
+
+{
+    "name": "nitrogendioxide",
+    "description": "AirPi data",
+    "min": "",
+    "max": "",
+    "type": "Int64",
+    "uomLabel": "nitrogendioxide",
+    "defaultValue": "null",
+    "labels": [
+        "environment",
+        "nitrogendioxide"
+    ]
+}

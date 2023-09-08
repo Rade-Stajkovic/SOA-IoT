@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "u/sEGUBexhttfgdO3K3RmGosn5HWYSSnqSi2bHiPFfOedG7ftU1mWOpPiL9S+ra1AuqAn+0f+iY48uSaFjq5NA==",
+  "dgSpecHash": "rsXDw8aP6FZgjUMr5pvzJaTBuvGVkijEgK6cgkAcZrpjIqHTRyZqsDs01U3tc1zxTqPnEYedPMjq8FqWJ/RI9A==",
   "success": true,
-  "projectFilePath": "C:\\Servisno-orijentisane arhitekture\\Project 1\\IoT - Project 1\\GrpcClient\\GrpcClient.csproj",
+  "projectFilePath": "C:\\Servisno-orijentisane arhitekture\\Git SoA\\SOA-IoT\\Project 1\\IoT - Project 1\\GrpcClient\\GrpcClient.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\radom\\.nuget\\packages\\google.protobuf\\3.22.3\\google.protobuf.3.22.3.nupkg.sha512",
     "C:\\Users\\radom\\.nuget\\packages\\grpc.core.api\\2.52.0\\grpc.core.api.2.52.0.nupkg.sha512",

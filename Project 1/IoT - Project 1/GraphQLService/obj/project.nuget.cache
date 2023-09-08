@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2yIVyxfG9ONuPcGw2ULNjeRT16TAzgZGdE7yBo/7hS4lvXTYu0FeH1SfYEy2gx0VzZLaCao7kfKNyuWQjmMuRw==",
+  "dgSpecHash": "8TwXRRdeChTnw+MM8uy6XeqzjW5Aw83+4/extXvZzK6VzFOlYZxMiXuzgSEJP7fvopNN6Eiy9DAhgZVY6lJttg==",
   "success": true,
-  "projectFilePath": "C:\\Servisno-orijentisane arhitekture\\Project 1\\IoT - Project 1\\GraphQLService\\GraphQLService.csproj",
+  "projectFilePath": "C:\\Servisno-orijentisane arhitekture\\Git SoA\\SOA-IoT\\Project 1\\IoT - Project 1\\GraphQLService\\GraphQLService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\radom\\.nuget\\packages\\bananacakepop.middleware\\7.0.3\\bananacakepop.middleware.7.0.3.nupkg.sha512",
     "C:\\Users\\radom\\.nuget\\packages\\greendonut\\13.4.0\\greendonut.13.4.0.nupkg.sha512",

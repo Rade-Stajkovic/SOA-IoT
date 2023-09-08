@@ -2532,11 +2532,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Servisno-orijentisane arhitekture\\Project 1\\IoT - Project 1\\GrpcService\\GrpcService.csproj",
+      "projectUniqueName": "C:\\Servisno-orijentisane arhitekture\\Git SoA\\SOA-IoT\\Project 1\\IoT - Project 1\\GrpcService\\GrpcService.csproj",
       "projectName": "GrpcService",
-      "projectPath": "C:\\Servisno-orijentisane arhitekture\\Project 1\\IoT - Project 1\\GrpcService\\GrpcService.csproj",
+      "projectPath": "C:\\Servisno-orijentisane arhitekture\\Git SoA\\SOA-IoT\\Project 1\\IoT - Project 1\\GrpcService\\GrpcService.csproj",
       "packagesPath": "C:\\Users\\radom\\.nuget\\packages\\",
-      "outputPath": "C:\\Servisno-orijentisane arhitekture\\Project 1\\IoT - Project 1\\GrpcService\\obj\\",
+      "outputPath": "C:\\Servisno-orijentisane arhitekture\\Git SoA\\SOA-IoT\\Project 1\\IoT - Project 1\\GrpcService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\radom\\AppData\\Roaming\\NuGet\\NuGet.Config",

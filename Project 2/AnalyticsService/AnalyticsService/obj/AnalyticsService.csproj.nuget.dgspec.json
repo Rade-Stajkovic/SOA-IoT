@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Servisno-orijentisane arhitekture\\Project 2\\AnalyticsService\\AnalyticsService\\AnalyticsService.csproj": {}
+    "C:\\Servisno-orijentisane arhitekture\\Git SoA\\SOA-IoT\\Project 2\\AnalyticsService\\AnalyticsService\\AnalyticsService.csproj": {}
   },
   "projects": {
-    "C:\\Servisno-orijentisane arhitekture\\Project 2\\AnalyticsService\\AnalyticsService\\AnalyticsService.csproj": {
+    "C:\\Servisno-orijentisane arhitekture\\Git SoA\\SOA-IoT\\Project 2\\AnalyticsService\\AnalyticsService\\AnalyticsService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Servisno-orijentisane arhitekture\\Project 2\\AnalyticsService\\AnalyticsService\\AnalyticsService.csproj",
+        "projectUniqueName": "C:\\Servisno-orijentisane arhitekture\\Git SoA\\SOA-IoT\\Project 2\\AnalyticsService\\AnalyticsService\\AnalyticsService.csproj",
         "projectName": "AnalyticsService",
-        "projectPath": "C:\\Servisno-orijentisane arhitekture\\Project 2\\AnalyticsService\\AnalyticsService\\AnalyticsService.csproj",
+        "projectPath": "C:\\Servisno-orijentisane arhitekture\\Git SoA\\SOA-IoT\\Project 2\\AnalyticsService\\AnalyticsService\\AnalyticsService.csproj",
         "packagesPath": "C:\\Users\\radom\\.nuget\\packages\\",
-        "outputPath": "C:\\Servisno-orijentisane arhitekture\\Project 2\\AnalyticsService\\AnalyticsService\\obj\\",
+        "outputPath": "C:\\Servisno-orijentisane arhitekture\\Git SoA\\SOA-IoT\\Project 2\\AnalyticsService\\AnalyticsService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\radom\\AppData\\Roaming\\NuGet\\NuGet.Config",

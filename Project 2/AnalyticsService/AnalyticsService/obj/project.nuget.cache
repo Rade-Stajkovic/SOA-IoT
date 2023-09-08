@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AEOHCNDw43QZg6LnDF/2/b3R/467YbwBwe5C9OGAvwVNq0MLzrgEdNxfd29moLfGuTkbeJuuvUDIYizePDspQw==",
+  "dgSpecHash": "E53PfUVpZKKkcCsO2JIlXxfmiL1GR3eTNO/g1m5r8PW0rK+hYibwVvActKIuhYlfNawve8TU0ANVibCl7IrqUA==",
   "success": true,
-  "projectFilePath": "C:\\Servisno-orijentisane arhitekture\\Project 2\\AnalyticsService\\AnalyticsService\\AnalyticsService.csproj",
+  "projectFilePath": "C:\\Servisno-orijentisane arhitekture\\Git SoA\\SOA-IoT\\Project 2\\AnalyticsService\\AnalyticsService\\AnalyticsService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\radom\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
     "C:\\Users\\radom\\.nuget\\packages\\influxdb.client\\4.13.0\\influxdb.client.4.13.0.nupkg.sha512",

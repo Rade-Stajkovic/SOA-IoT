@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Servisno-orijentisane arhitekture\\Project 1\\IoT - Project 1\\GrpcClient\\GrpcClient.csproj": {}
+    "C:\\Servisno-orijentisane arhitekture\\Git SoA\\SOA-IoT\\Project 1\\IoT - Project 1\\GrpcClient\\GrpcClient.csproj": {}
   },
   "projects": {
-    "C:\\Servisno-orijentisane arhitekture\\Project 1\\IoT - Project 1\\GrpcClient\\GrpcClient.csproj": {
+    "C:\\Servisno-orijentisane arhitekture\\Git SoA\\SOA-IoT\\Project 1\\IoT - Project 1\\GrpcClient\\GrpcClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Servisno-orijentisane arhitekture\\Project 1\\IoT - Project 1\\GrpcClient\\GrpcClient.csproj",
+        "projectUniqueName": "C:\\Servisno-orijentisane arhitekture\\Git SoA\\SOA-IoT\\Project 1\\IoT - Project 1\\GrpcClient\\GrpcClient.csproj",
         "projectName": "GrpcClient",
-        "projectPath": "C:\\Servisno-orijentisane arhitekture\\Project 1\\IoT - Project 1\\GrpcClient\\GrpcClient.csproj",
+        "projectPath": "C:\\Servisno-orijentisane arhitekture\\Git SoA\\SOA-IoT\\Project 1\\IoT - Project 1\\GrpcClient\\GrpcClient.csproj",
         "packagesPath": "C:\\Users\\radom\\.nuget\\packages\\",
-        "outputPath": "C:\\Servisno-orijentisane arhitekture\\Project 1\\IoT - Project 1\\GrpcClient\\obj\\",
+        "outputPath": "C:\\Servisno-orijentisane arhitekture\\Git SoA\\SOA-IoT\\Project 1\\IoT - Project 1\\GrpcClient\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\radom\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7/tTczS4TpOxxiEgpjiQXgLXnmZ9CkiVLh9qRgQmO++hsXqeG1d4wsyjVr/+NhqgL1ZR9oackCLMdRzyNcn2eA==",
+  "dgSpecHash": "FZGWv9AULWF+yI7FBa/7JQj95Mz0UJD/Gf/FylSwFihj/R8fIvINca419Ru3QyMgbZYp/8qmZoe5GS9+5+FVVA==",
   "success": true,
-  "projectFilePath": "C:\\Servisno-orijentisane arhitekture\\Project 1\\IoT - Project 1\\GrpcService\\GrpcService.csproj",
+  "projectFilePath": "C:\\Servisno-orijentisane arhitekture\\Git SoA\\SOA-IoT\\Project 1\\IoT - Project 1\\GrpcService\\GrpcService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\radom\\.nuget\\packages\\google.protobuf\\3.18.0\\google.protobuf.3.18.0.nupkg.sha512",
     "C:\\Users\\radom\\.nuget\\packages\\grpc.aspnetcore\\2.40.0\\grpc.aspnetcore.2.40.0.nupkg.sha512",
